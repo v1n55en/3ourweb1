@@ -2,7 +2,7 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Services from './components/Services';
 import AboutUs from './components/AboutUs';
-import Portfolio from './components/Portofolio';
+import Portofolio from './components/Portofolio';
 import CallToAction from './components/CallToAction';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -16,7 +16,7 @@ function App() {
         <Hero />
         <Services />
         <AboutUs />
-        <Portfolio />
+        <Portofolio />
         <CallToAction />
         <Contact />
       </main>
